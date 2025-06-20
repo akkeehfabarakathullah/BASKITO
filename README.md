@@ -214,9 +214,6 @@ All data is stored locally in your browser for complete privacy:
 - [ ] **Cloud Sync** - Optional cloud storage for device synchronization
 - [ ] **Advanced Voice Commands** - More natural language processing
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ### Development Setup
 1. Fork the repository
@@ -244,12 +241,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Voice Recognition** powered by Web Speech API
 - **Design Inspiration** from Apple's Human Interface Guidelines
 
-## 📞 Support & Community
-
-- 📧 **Email**: support@baskito.app
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/baskito/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/baskito/discussions)
-- 🌟 **Feature Requests**: [Feature Request Form](https://github.com/yourusername/baskito/issues/new?template=feature_request.md)
 
 ## 🏆 Awards & Recognition
 
